@@ -1,0 +1,17 @@
+courses = [7, 'a', 'b', 8, 16]
+print(courses)
+print(courses.index('a'))
+courses.append(25)
+courses.append(25)
+courses.append(25)
+print(courses)
+# courses.clear()
+print(courses[-1])
+print(courses.count(25))
+print(courses.index(25))
+courses.remove('a')
+courses.remove('b')
+print(courses)
+print(sum(courses))
+l = ['Math', 'Physics', 'Literature']
+print(l[2][0])

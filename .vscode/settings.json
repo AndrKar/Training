@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Source Code Pro, monospace",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.fontFamily": "Source Code Pro, monospace",
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth"
+}
